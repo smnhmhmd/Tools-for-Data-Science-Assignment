@@ -1,2 +1,2 @@
 # Read me
-This is final Assignment for "Tools for Data Science" course.
+This is final assignment for "Tools for Data Science" course.
